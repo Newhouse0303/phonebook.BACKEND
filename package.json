@@ -9,8 +9,8 @@
   },
   "author": "SU",
   "license": "ISC",
-  "description": "",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.21.0",
     "morgan": "^1.10.0"
   },
@@ -22,5 +22,6 @@
     "semi": true,
     "singleQuote": true,
     "trailingComma": "es5"
-  }
+  },
+  "description": ""
 }
